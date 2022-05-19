@@ -41,24 +41,24 @@ public class SoalNo2 {
                     System.out.print(a);
                     b--;
                 } else if (b==1) {
-                    System.out.println(b+1);
+                    System.out.print(b+1);
                 }
             }
             System.out.println();
         }
 
-//        System.out.println("\nPola D");
-//        this.arr = new String[panjang][panjang];
-//        for(int i = 0; i < panjang; i++) {
-//            for(int j = 0; j < panjang; j++) {
-//                if (j > i) {
-//                    System.out.print(" ");
-//                } else if (i >= j) {
-//                    System.out.print(i+1);
-//                }
-//            }
-//            System.out.println();
-//        }
+        System.out.println("\nPola D");
+        this.arr = new String[panjang][panjang];
+        for(int i = 0; i < panjang; i++) {
+            for(int j = 0; j < panjang; j++) {
+                if (j > i) {
+                    System.out.print(" ");
+                } else if (i >= j) {
+                    System.out.print(i+1);
+                }
+            }
+            System.out.println();
+        }
 
     }
 

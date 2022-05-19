@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c659149b-8c4f-43fc-8b3b-eaf28048bd83" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logic-test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SoalNo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SoalNo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SoalNo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SoalNo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SoalNo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SoalNo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SoalNo3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +35,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "G:/PT Pro Sigmaka Mandiri/Tes MMI/logic-test/SoalNo4/logicMMI",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -85,6 +80,8 @@
       <option name="presentableId" value="Default" />
       <updated>1652932376595</updated>
       <workItem from="1652932384985" duration="7540000" />
+      <workItem from="1652944854038" duration="1175000" />
+      <workItem from="1652946434818" duration="404000" />
     </task>
     <servers />
   </component>

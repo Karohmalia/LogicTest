@@ -1,0 +1,5 @@
+INSERT INTO public.pelanggan(
+	kode, alamat, nama)
+	VALUES ('P1', 'Yogi', 'Jakarta'),
+			('P2', 'Anggi', 'Bandung'),
+			('P3', 'Rahma', 'Bandung');

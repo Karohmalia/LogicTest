@@ -1,0 +1,5 @@
+INSERT INTO public.barang(
+	kode, nama, harga)
+	VALUES ('B1', 'Baju', 12000), 
+		   ('B2', 'Celana', 10000), 
+		   ('B3', 'Sepatu', 30000);

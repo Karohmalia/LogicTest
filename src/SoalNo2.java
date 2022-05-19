@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class SoalNo2 {
-    private String[][] arr;
     public Scanner sc = new Scanner(System.in);
     public int getN() {
         System.out.print("\nMasukkan nilai n : ");
@@ -48,7 +47,6 @@ public class SoalNo2 {
         }
 
         System.out.println("\nPola D");
-        this.arr = new String[panjang][panjang];
         for(int i = 0; i < panjang; i++) {
             for(int j = 0; j < panjang; j++) {
                 if (j > i) {

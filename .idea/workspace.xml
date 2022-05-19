@@ -4,7 +4,6 @@
     <list default="true" id="c659149b-8c4f-43fc-8b3b-eaf28048bd83" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SoalNo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SoalNo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SoalNo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SoalNo3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +41,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SoalNo3">
+  <component name="RunManager" selected="Application.SoalNo2">
     <configuration name="SoalNo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SoalNo1" />
       <module name="logic-test" />
@@ -66,8 +65,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SoalNo3" />
         <item itemvalue="Application.SoalNo2" />
+        <item itemvalue="Application.SoalNo3" />
         <item itemvalue="Application.SoalNo1" />
       </list>
     </recent_temporary>
@@ -82,7 +81,7 @@
       <updated>1652932376595</updated>
       <workItem from="1652932384985" duration="7540000" />
       <workItem from="1652944854038" duration="1175000" />
-      <workItem from="1652946434818" duration="3776000" />
+      <workItem from="1652946434818" duration="6117000" />
     </task>
     <servers />
   </component>
